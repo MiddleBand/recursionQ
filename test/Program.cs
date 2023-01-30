@@ -227,3 +227,125 @@ if (right < tree.Length && !String.IsNullOrEmpty(tree[right])) InOrderTraversal(
 
 
 
+Console.Clear();
+
+void OutputNumbers(int n)
+{
+if (n >= 1) {
+OutputNumbers(n - 1);
+Console.WriteLine(n);
+}
+}
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+OutputNumbers(n);
+
+
+
+
+Console.Clear();
+
+void OutputNumbers(int n, int m)
+{
+if (n >= m) {
+OutputNumbers(n - 1,m);
+Console.WriteLine(n);
+}
+
+}
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите число: ");
+int m = Convert.ToInt32(Console.ReadLine());
+if (n>m)
+{
+OutputNumbers(n, m);
+}
+if (m>n)
+{
+OutputNumbers(m, n);
+}
+if (m==n)
+{
+Console.Write("Числа равны ");
+}
+
+
+
+
+Console.Clear();
+Console.Write("Введите N: ");
+int n = int.Parse(Console.ReadLine());
+
+PrintNumbers(1,n);
+
+void PrintNumbers(int start, int end)
+{
+Console.Write($"{start} ");
+if (start == end) return;
+PrintNumbers(start + 1, end);
+}
+
+
+
+Console.Clear();
+void OutputNumbers(int n, int m)
+{
+
+if (n >= m) {
+OutputNumbers(n - 1,m);
+Console.WriteLine(n);
+}
+
+}
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Введите число: ");
+int m = Convert.ToInt32(Console.ReadLine());
+if (n>m)
+{
+OutputNumbers(n, m);
+}
+if (m>n)
+{
+OutputNumbers(m, n);
+}
+if (m==n)
+{
+Console.Write("Числа равны ");
+}
+
+
+
+Console.Clear();
+Console.Write("Введите число: ");
+int num = Math.Abs( int.Parse(Console.ReadLine()));
+
+Console.WriteLine("Сумма цифр числа:"+Sum(num));
+int Sum(int inputNum)
+{
+if (inputNum < 10) return inputNum;
+else return inputNum % 10 + Sum(inputNum / 10);
+}
+
+
+
+Console.Clear();
+Console.Write("Введите число: ");
+int m = int.Parse(Console.ReadLine());
+Console.Write("Введите степень: ");
+int n = int.Parse(Console.ReadLine());
+
+Console.WriteLine($"{Pow(m,n)}");
+
+int Pow(int number,int rank)
+{
+if (rank == 0) return 1;
+else return (number * Pow(number,rank-1));
+}
