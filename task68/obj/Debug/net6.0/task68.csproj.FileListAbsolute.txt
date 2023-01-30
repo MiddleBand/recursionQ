@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\task68.exe
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\task68.deps.json
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\task68.dll
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\ref\task68.dll
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\bin\Debug\net6.0\task68.pdb
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.GlobalUsings.g.cs
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.dll
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\ref\task68.dll
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.pdb
+C:\Users\admin\Desktop\Geek Brains\уроки\Учеба черновик\recursionQ\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
